@@ -1,6 +1,6 @@
 - Distributed system
-- Observability
+- Observability (see my related tech decks at [Pycon 2023](https://docs.google.com/presentation/d/1zbPvoadDVLjIe4DW7HO8KgXrACsEXPzyEGmmaLZb1s0/edit?usp=sharing) and [PyJogja 2023](https://docs.google.com/presentation/d/1AgGSVSuLZaqMMCf2vOx0_uD4kwiOaujGMXdkjwV8Xy8/edit?usp=sharing))
 - Open-source software
-- Coffee
-- Gym
-- Anime
+- ~~Coffee~~
+- ~~Gym~~
+- ~~Anime~~
