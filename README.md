@@ -4,3 +4,7 @@
 - ~~Coffee~~
 - ~~Gym~~
 - ~~Anime~~
+
+> I believe that our intention of writing software lies between staying alive and finding a reason to live.
+> 
+> So, where is yours?
